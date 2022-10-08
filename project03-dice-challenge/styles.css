@@ -32,6 +32,33 @@ img {
   width: 80%;
 }
 
+button {
+  display: block;
+  margin: 50px auto;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 15px 50px;
+  border-radius: 10px;
+  border: none;
+  font-family: 'Indie Flower', cursive;
+  letter-spacing: 2px;
+  background-color: #5d926f;
+  box-shadow: 1.5px 9px #c7c7c7;
+  color: #d6d6d6;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: #497457;
+  box-shadow: 0.5px 5px #9b9a9a;
+  transform: translateY(4px);
+}
+
+.pressed {
+  box-shadow: 0 5px #9b9a9a;
+  transform: translateY(4px);
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
