@@ -15,13 +15,5 @@ document.querySelector(".dice-button").addEventListener("click", function () {
     
 });
 
-function buttonAnimation(button) {
-    var activeButton = document.querySelector("." + button);
-    activeButton.classList.add("pressed");
-
-    setTimeout(function() {
-        activeButton.classList.remove("pressed");
-    }, 100);
-};
 
 
