@@ -10,7 +10,7 @@ Project 05 of Bootcamp
 
 - HTML
 - CSS
-- JQuery
+- jQuery
 
 # 💻 Project
 
