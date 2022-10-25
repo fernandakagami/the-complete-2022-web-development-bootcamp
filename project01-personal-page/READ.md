@@ -18,7 +18,8 @@ Project 01 of Bootcamp
 
 ## 🚀 Tecnologias
 
-- HTML e CSS
+- HTML
+- CSS
 
 ## 💻 Projeto
 
