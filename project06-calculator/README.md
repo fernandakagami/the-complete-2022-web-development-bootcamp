@@ -16,12 +16,12 @@ Project 06 of Bootcamp
 
 <br>
 
-## 🚀 Tecnologias
+## 🚀 Technology
 
 - HTML
 - Express.js with Node.js
 
-## 💻 Projeto
+## 💻 Project
 
 This is a calculador build with Express.js.
 
