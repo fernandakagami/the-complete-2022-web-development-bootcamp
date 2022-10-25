@@ -10,6 +10,7 @@ Project 02 of Bootcamp
 
 - HTML
 - CSS
+- Bootstrap
 
 ## 💻 Project
 
