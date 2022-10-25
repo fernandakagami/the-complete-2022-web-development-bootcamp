@@ -16,7 +16,7 @@ Project 04 of Bootcamp
 
 This project is a drum. Play as much as you want.
 
-<a href="https://fernandakagami.github.io/the-complete-2022-web-development-bootcamp/project04-drum-challenge/">project 04</a><br>
+<a href="https://fernandakagami.github.io/the-complete-2022-web-development-bootcamp/project04-drum-challenge/">Link to the project</a><br>
 
 ## :memo: License
 

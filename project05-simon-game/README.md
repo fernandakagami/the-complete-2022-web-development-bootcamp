@@ -16,7 +16,7 @@ Project 05 of Bootcamp
 
 This project is the Simon Game. Play as much as you want.
 
-<a href="https://fernandakagami.github.io/the-complete-2022-web-development-bootcamp/project05-simon-game/">project 05</a><br>
+<a href="https://fernandakagami.github.io/the-complete-2022-web-development-bootcamp/project05-simon-game/">Link to the project</a><br>
 
 # :memo: License
 

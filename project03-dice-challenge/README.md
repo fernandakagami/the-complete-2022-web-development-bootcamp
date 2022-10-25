@@ -16,7 +16,7 @@ Project 03 of Bootcamp
 
 This is a game. There are two players and each player with a dice. The player who get the higher score wins.
 
-<a href="https://fernandakagami.github.io/the-complete-2022-web-development-bootcamp/project03-dice-challenge/">project 03</a><br>
+<a href="https://fernandakagami.github.io/the-complete-2022-web-development-bootcamp/project03-dice-challenge/">Link to the project</a><br>
 
 ## :memo: License
 
