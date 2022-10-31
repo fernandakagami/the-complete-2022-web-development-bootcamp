@@ -64,8 +64,3 @@ app.listen(process.env.PORT || 3000, function() {
     console.log("Server is running on port 3000");
 });
 
-//API Key
-// 6c765e584d081e4d2ad1a0971d3ef075-us13
-
-//List Id
-// 
